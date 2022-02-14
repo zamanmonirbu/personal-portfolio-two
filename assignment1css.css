@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    height: 20px;
+    width: 100%;
+}
+ul{
+    position: absolute;
+    right: 100px;   
+}
+li{
+    float: left;
+    padding: 30px;
+    list-style-type: none;  
+}
+li a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+h1{
+    color: rgb(89, 81, 81);
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.color{
+    color: orange;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+.ankor{
+    text-decoration: none;
+    background-color: orange;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(90deg,red,orange );
+    margin-top: 50px;
+}
+.oneone, .onetwo{
+    margin: 50px;
+
+}
+.side{
+    width: 45%;
+    float: left;
+    margin: 10px;
+    height: 500px;
+    padding: 10px;
+    
+    
+}
+
+.imj{
+    width: 50%;
+    position: relative;
+    left: 50px;
+    bottom: 70px;
+   
+}
+.first{
+    height: 100px;
+}
+.majhe{
+    padding-top: 100px;
+}
+.ti{
+width: 100%;
+margin-left: 200px;
+
+}
+.ti img{
+width: 25%;
+padding: 5px;
+margin-bottom: 100px;
+
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+}
+.experience{
+    height: 250px;
+    margin-left: 250px;
+
+}
+.four{
+    background-image: url(/images/Group_33094_1.png);
+    height: 200px;
+    width: 700px;
+    margin-left: 350px;
+   width: 40%;
+}
+footer{
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 100px;
+    
+}
+footer img{
+    width: 3%;
+}
+
